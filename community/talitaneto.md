@@ -14,15 +14,10 @@
 
 ## Habilidades
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-FFFFFF?style=for-the-badge&logo=microsoftPowerPoint&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
-
 ![PowerBI](https://img.shields.io/badge/Powerbi-F7DF1E?style=for-the-badge&logo=PowerBI&logoColor=black)
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
 ![GoogleSheets](https://img.shields.io/badge/Sheets-239120?style=for-the-badge&logo=GoogleSheets&logoColor=white)
-
 ![Excel](https://img.shields.io/badge/Excel-239120?style=for-the-badge&logo=microsoftExcel&logoColor=white)
 
 
